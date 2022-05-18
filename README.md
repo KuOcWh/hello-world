@@ -1,7 +1,7 @@
 # hello-world
 my first proper repository while I learn git / github
 <h1> Roachy Roach</h1> 
-  <p>I am a self taught Web Developer looking to imporve my coding  skils and progress as a developer</p>
+  <p>I am a self taught Web Developer looking to improve my coding  skils and progress as a developer</p>
                                                 <span>I am 25, living in the UK</span>
                                                                                     <p>I have taught myself HTML, CSS, Python, JavbaScript and a lil sprinkle of SQL </p>
                                                                                     
